@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shaolihuang.github.io/shaolihuang/sitemap.xml
+Sitemap: https://shaolihuang.github.io/sitemap.xml
